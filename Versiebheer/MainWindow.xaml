@@ -6,5 +6,7 @@
         xmlns:local="clr-namespace:Versiebheer"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
-    <Grid/>
+    <Grid>
+        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="231,139,0,0" VerticalAlignment="Top" Width="75"/>
+    </Grid>
 </Window>
